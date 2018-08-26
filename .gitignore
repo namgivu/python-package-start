@@ -108,4 +108,5 @@ venv.bak/
 
 ##region this project ignore
 .idea/
+venv/
 ##endregion
